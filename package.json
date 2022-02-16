@@ -1,0 +1,10 @@
+{
+  "name": "js-e9ydjz",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ag-grid-community": "^20.2.0",
+    "ag-grid-enterprise": "^20.2.0",
+    "axios": "^0.18.0"
+  }
+}
